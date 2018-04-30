@@ -1,0 +1,102 @@
+.filterbtn{
+	margin-left: 25px;
+}
+.filterLabel{
+	text-transform: none;
+   color: black;
+   letter-spacing: 0.1em;
+   margin-right: 20px;
+   font-size: smaller;
+}
+
+.checkboxLabel{
+	   letter-spacing: 0em;
+   color: black;
+   margin: 0px;
+   margin-top: 30px;
+   margin-left: 15px;
+}
+
+
+.checkboxLabel {
+  white-space: nowrap;
+}
+
+.checkboxLabel > .SelectSize {
+  width: 60px;
+  padding: 0px;
+  background-color: black;
+  font-size: small;
+  align-items: center;
+  align-self: center;
+  align-content: center;
+  vertical-align: center;
+}
+
+label {
+  text-align: left;
+
+}​
+
+input:not([type]), input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="time"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="tel"], input[type="number"], input[type="search"], textarea.materialize-textarea{
+	font-size: 5px;
+    color: black;
+}
+
+
+@media screen and (max-width: 720px) {
+	.checkboxes{		
+		margin-top: 40px;
+		padding-top: 0px;
+		width: 100%;
+		padding-left: 0px;
+		font-size: xx-small;
+		height: 135px;
+	}
+ 
+   .filterbtn{
+	margin-left: 25px;
+	}
+	.filterLabel{
+	   letter-spacing: 0em;
+	   margin-right: 2px;
+	   font-size: small;
+	}
+
+   .checkboxLabel{
+   	   letter-spacing: 0em;
+	   margin-right: 2px;
+	   font-size: x-small;
+   }
+
+
+
+input:not([type]), input[type="text"], input[type="password"], input[type="email"], input[type="url"], input[type="time"], input[type="date"], input[type="datetime"], input[type="datetime-local"], input[type="tel"], input[type="number"], input[type="search"], textarea.materialize-textarea{
+	font-size: 2px;
+    width: 10px;
+}
+
+	[type="checkbox"] + label {
+		 position:relative;
+		 cursor:pointer;
+		 display:inline-block;
+		 height:25px;
+		 line-height:25px;
+		 font-size: xx-small;
+		padding-left:25px;
+		height: 0px;
+		font-size: larger;
+		background-color: blue;
+	}
+
+
+
+
+
+	.select-wrapper input.select-dropdown {
+    margin: 0 0 40px 0;
+    height: 15px;
+    width: 120px; 
+   } 
+}
+
