@@ -20,30 +20,41 @@
 
 <h2>Working:</h2>
 	<h3>Some Screenshots of the working of the website:</h3>
-    
+   
+
+
+
    	<hr>
     Initial Page
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/initialPage.png">
+
+    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/initialPage.png)
+
     <hr>
 	Filtered By Exclusive
-
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredByExclusive.png">
+   
+   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredByExclusive.png)
 
 	<hr>
 	Filtered By Sale
 
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredBySale.png">
+     ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredBySale.png)
 
 	<hr>
     <hr>
     Filtered By Both Sales And Exclusive
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/filteredByBothSaleAndExclusive.png">
+
+    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/filteredByBothSaleAndExclusive.png)
+
 	<hr>
     Price High To Low
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceHighToLow.png">
+
+    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceHighToLow.png)
+
 	<hr>
 	Price Low To High
-	<img src="https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceLowToHigh.png.png">
+
+	![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceLowToHigh.png)
+
 	<hr>
 
 
