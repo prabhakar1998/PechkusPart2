@@ -56,7 +56,7 @@ class App extends Component {
                   {
                               console.log(58);
                     for(let product in this.all_products){
-                         if(this.all_products[product].isExclusive && this.all_products[product].isSale){
+                         if(this.all_products[product].isExclusive || this.all_products[product].isSale){
                            filteredResults.push(this.all_products[product])
                         }
                      }                   
@@ -90,7 +90,7 @@ class App extends Component {
                 else{
                   console.log("line79");
                      for(let product in this.all_products){
-                        if(!this.all_products[product].isExclusive && this.all_products[product].isSale){
+                        if(!this.all_products[product].isExclusive || this.all_products[product].isSale){
                            filteredResults.push(this.all_products[product])
                          }
                      } 
