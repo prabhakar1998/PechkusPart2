@@ -42,7 +42,7 @@
 <hr>
     Filtered By Both Sales And Exclusive
 
-   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/SaleAndExclusiveFIlter.png)
+   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilterBySaleAndExclusive.png)
 
 <hr>
     Price High To Low
