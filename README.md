@@ -1,5 +1,5 @@
 # PechkusPart2
-<h3>It is live at htttp://www.prabhakarjha.tk. <h3>
+<h3>It is live at www.prabhakarjha.tk. <h3>
 <h2>About:</h2>
 <h4>
 
@@ -24,37 +24,36 @@
 
 
 
-   	<hr>
+ <hr>
     Initial Page
 
-    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/initialPage.png)
+   ![alt text](https://github.com/prabhakar1998/PechkusPart2/blob/master/ScreenShots/InitialPage.png?raw=true)
 
-    <hr>
+<hr>
 	Filtered By Exclusive
    
-   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredByExclusive.png)
+   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/ExclusiveFilter.png)
 
-	<hr>
+<hr>
 	Filtered By Sale
 
-     ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/FilteredBySale.png)
+   ![alt text](https://github.com/prabhakar1998/PechkusPart2/blob/master/ScreenShots/SaleFilter.png?raw=true)
 
-	<hr>
-    <hr>
+<hr>
     Filtered By Both Sales And Exclusive
 
-    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/filteredByBothSaleAndExclusive.png)
+   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/SaleAndExclusiveFIlter.png)
 
-	<hr>
+<hr>
     Price High To Low
 
-    ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceHighToLow.png)
+   ![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/SortByPriceHighToLow.png)
 
-	<hr>
+<hr>
 	Price Low To High
 
-	![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/priceLowToHigh.png)
+![alt text](https://raw.githubusercontent.com/prabhakar1998/PechkusPart2/master/ScreenShots/SortByPriceLowToHigh.png)
 
-	<hr>
+<hr>
 
 
