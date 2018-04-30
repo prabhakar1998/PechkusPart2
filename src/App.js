@@ -27,9 +27,9 @@ class App extends Component {
   }
   
   filterBySale() {
-      let filteredResults = []
+      let filteredResults = []      
         if(this.state.filterBySaleChecked){
-        console.log("line32");
+          console.log(32);
               if(!this.state.filterByExclusiveChecked){
                 console.log("line34");
                     this.setState({
@@ -38,7 +38,7 @@ class App extends Component {
                     })  
                }
               else{
-                console.log("line41");
+                          console.log(41);
                    for(let product in this.all_products){
                       if((!this.all_products[product].isSale) && this.all_products[product].isExclusive){
                          filteredResults.push(this.all_products[product])
@@ -51,9 +51,10 @@ class App extends Component {
                }              
              } 
           else{
-
-                  if(this.state.filterByExclusive)
+                      console.log(54);
+                  if(this.state.filterByExclusiveChecked)
                   {
+                              console.log(58);
                     for(let product in this.all_products){
                          if(this.all_products[product].isExclusive && this.all_products[product].isSale){
                            filteredResults.push(this.all_products[product])
@@ -61,6 +62,7 @@ class App extends Component {
                      }                   
                   }
                   else{
+                              console.log(65);
                       for(let product in this.all_products){
                           if(this.all_products[product].isSale){
                                 filteredResults.push(this.all_products[product])
@@ -98,7 +100,7 @@ class App extends Component {
                       }) 
                  }              
              } 
-          else{console.log("line91");
+          else{
                 if(this.state.filterBySaleChecked)
                 {
                   for(let product in this.all_products){
