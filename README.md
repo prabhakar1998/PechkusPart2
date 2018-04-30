@@ -3,7 +3,8 @@
 <h2>About:</h2>
 <h4>
 
-	This project contains the files for the Task2.
+	This project is a simple e-commerce webpage with filters and sorting implemeted using ReactJs.
+	This project contains the files for the Task2 from Pechkus.
 	Node modules are not added in the repository.
 </h4>
 
