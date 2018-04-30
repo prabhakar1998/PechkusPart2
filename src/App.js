@@ -17,7 +17,7 @@ class App extends Component {
     this.handler_sortByPrice = this.sortByPrice.bind(this);
     this.filterBySale = this.filterBySale.bind(this);    
 
-    this.brandName = "Pechkus";
+    this.brandName = "Part2 Task";
     this.state={
       products_to_display: this.all_products,
       filtered: false,
