@@ -125,3 +125,16 @@
 .card .card-footer .span:hover .isSale:hover{
   background: red;
 }
+
+.card .top-bar .span {
+  margin: 3px;
+  width: auto;
+  background: #dedede;
+  padding: 3px 5px;
+  border-radius: 2px;
+  font-weight: 75;
+  cursor: pointer;
+}
+.card .top-bar .span:hover {
+  background: #aaaaaa;
+}

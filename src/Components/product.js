@@ -21,6 +21,12 @@ class Product extends React.Component{
 					        </div>
                 	);
 		  	  }
+           let sizeSpans = []
+           for(let each in item.size){
+           	   sizeSpans.push(<span className='span float-right'>{item.size[each]}</span>);  	
+           }
+
+
 		  		return (
 					        <div class='card'>
 					                      <div class='card-content'>
@@ -28,7 +34,7 @@ class Product extends React.Component{
 					                              <span>
 					                                {item.price}
 					                              </span>
-					                              <span class='float-right lnr lnr-heart'></span>
+					                              {sizeSpans}
 					                           </div>
 					                          <div class='img'>
 					                            <img src= {require("../images/" + item.productImage)} />
